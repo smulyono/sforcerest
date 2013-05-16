@@ -1,0 +1,1056 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"schoolter",
+				"schoolterm_to_fetch"
+			],
+			[
+				"empt",
+				"emptyregfeerec"
+			],
+			[
+				"school_ter",
+				"School_Term_Fee_Period__c"
+			],
+			[
+				"Course_regi",
+				"Course_Registration_Line_Item__c"
+			],
+			[
+				"map",
+				"map_emptyregfee"
+			],
+			[
+				"end_date",
+				"end_date_forfee"
+			],
+			[
+				"end",
+				"end_date_forfee"
+			],
+			[
+				"registra",
+				"registration_date__c"
+			],
+			[
+				"schoo",
+				"schoolterm_to_fetch"
+			],
+			[
+				"Schoo",
+				"school_term_fee_period__c"
+			],
+			[
+				"scho",
+				"school_term__r"
+			],
+			[
+				"refre",
+				"refreshPage"
+			],
+			[
+				"coursereg",
+				"courseregistrationId"
+			],
+			[
+				"course",
+				"courseregistrationId"
+			],
+			[
+				"student",
+				"Student_Contact__c"
+			],
+			[
+				"Course_reg",
+				"Course_Registration_Line_Item__c"
+			],
+			[
+				"dir",
+				"dirty_master_record"
+			],
+			[
+				"COurse",
+				"Course_Registration_Line_Item__c"
+			],
+			[
+				"confi",
+				"confirm_master"
+			],
+			[
+				"School_Term",
+				"School_Term__c"
+			],
+			[
+				"comm",
+				"commitErrors"
+			],
+			[
+				"gotopage",
+				"goToPageSelectCourses"
+			],
+			[
+				"Course",
+				"CourseRegistrationDAO"
+			],
+			[
+				"coursesec",
+				"coursesection3"
+			],
+			[
+				"coursesection",
+				"coursesection2"
+			],
+			[
+				"prepareRegistr",
+				"prepareRegistrationData"
+			],
+			[
+				"Enroll",
+				"Enrolled_Program__c"
+			],
+			[
+				"Course_Registration",
+				"Course_Registration_Line_Item__c"
+			],
+			[
+				"Course_Reg",
+				"Course_Registration__c"
+			],
+			[
+				"Course_Regis",
+				"Course_Registration_Line_Item__c"
+			],
+			[
+				"PASSing",
+				"PASSING_STATUS_TEXT"
+			],
+			[
+				"prepareDAO",
+				"prepareDAOcheckResult"
+			],
+			[
+				"map_cours",
+				"map_coursesection_course"
+			],
+			[
+				"enrolled_",
+				"Enrolled_Program__r"
+			],
+			[
+				"defer",
+				"defer_check_error_encountered"
+			],
+			[
+				"courses",
+				"coursesectionids"
+			],
+			[
+				"courseprere",
+				"courseprerequisitesId"
+			],
+			[
+				"Mockup",
+				"MockupUtility"
+			],
+			[
+				"prepare",
+				"prepareDegree"
+			],
+			[
+				"SE",
+				"SEQUENTIAL_TEXT"
+			],
+			[
+				"complete",
+				"completed_course_map"
+			],
+			[
+				"Degree",
+				"DegreePathCheckModel"
+			],
+			[
+				"Degre",
+				"DegreePathCheckModel"
+			],
+			[
+				"degree",
+				"DegreePathCheckModel"
+			],
+			[
+				"map_stude",
+				"map_student_course_check"
+			],
+			[
+				"map_stu",
+				"map_student_course_apply_status"
+			],
+			[
+				"map_student_ourse",
+				"map_student_course_apply_status"
+			],
+			[
+				"map_stud",
+				"map_student_completed_course"
+			],
+			[
+				"Course_Registrat",
+				"course_registration_line_item__c"
+			],
+			[
+				"map_student",
+				"map_student_course_to_apply"
+			],
+			[
+				"map_st",
+				"map_student_course_to_apply"
+			],
+			[
+				"mul",
+				"multiple_master_records"
+			],
+			[
+				"selected",
+				"selectedrectype"
+			],
+			[
+				"schedule",
+				"scheduleDailyViewPDFController"
+			],
+			[
+				"Sc",
+				"scheduleModel"
+			],
+			[
+				"ILMS_SIS__schoo",
+				"ILMS_SIS__school_term_course_line_item__c"
+			],
+			[
+				"ILMS_SIS_scho",
+				"ILMS_SIS__school_term_course_line_item__c"
+			],
+			[
+				"ILMS_SIS_SchoolT",
+				"ILMS_SIS__school_term_course_line_item__c"
+			],
+			[
+				"newat",
+				"newattendancerecord"
+			],
+			[
+				"newattenda",
+				"newattendance"
+			],
+			[
+				"ACMeeting",
+				"ACMeeting_Principal"
+			],
+			[
+				"AC_Create",
+				"AC_CreateMeetingController"
+			],
+			[
+				"AC_Cre",
+				"AC_CreateMeetingController"
+			],
+			[
+				"ac_S",
+				"AC_SetupController"
+			],
+			[
+				"getBo",
+				"getBodyDocument()"
+			],
+			[
+				"prin",
+				"principal_id"
+			],
+			[
+				"permis",
+				"permission-id"
+			],
+			[
+				"sco_id",
+				"SCO_ID__c"
+			],
+			[
+				"di",
+				"display-uid"
+			],
+			[
+				"AC_P",
+				"AC_Principal_User"
+			],
+			[
+				"getAttrib",
+				"getAttributeKeyAt"
+			],
+			[
+				"AC_Princi",
+				"AC_Principal_User"
+			],
+			[
+				"session",
+				"sessioncode"
+			],
+			[
+				"bodyco",
+				"bodycoderaw"
+			],
+			[
+				"toolbar",
+				"toolbarDefault"
+			],
+			[
+				"addsc",
+				"addschoollogo"
+			],
+			[
+				"include",
+				"includecoursecatalog"
+			],
+			[
+				"addscho",
+				"addschoolinfo"
+			],
+			[
+				"selectedProgr",
+				"selectedProgramName"
+			],
+			[
+				"selectedDeg",
+				"selectedDegreeObject"
+			],
+			[
+				"selectedProgra",
+				"selectedProgramObject"
+			],
+			[
+				"catalog",
+				"catalogrecords"
+			],
+			[
+				"School_Term_Course",
+				"school_term_course_line_item__c"
+			],
+			[
+				"School_term_cours",
+				"school_term_course_line_item__c"
+			],
+			[
+				"School_term_c",
+				"school_term_course_line_item__c"
+			],
+			[
+				"updateC",
+				"updateCourseGradebookDetail"
+			],
+			[
+				"clas",
+				"classOption"
+			],
+			[
+				"school_term",
+				"school_term_course__r"
+			],
+			[
+				"Attendance",
+				"Attendance_Code__c"
+			],
+			[
+				"Atten",
+				"Attendance__c"
+			],
+			[
+				"sele",
+				"selectedTerm"
+			],
+			[
+				"contac",
+				"contactsId"
+			],
+			[
+				"ILMS",
+				"ILMS_SIS__End_Term__c"
+			],
+			[
+				"sel",
+				"selectedTerm"
+			],
+			[
+				"ILM_",
+				"ILMS_SIS__Beginning_Term__c"
+			],
+			[
+				"ILMS_SI",
+				"ILMS_SIS__School_Term_Line_Item__c"
+			],
+			[
+				"Deg",
+				"Degree__c"
+			],
+			[
+				"boo",
+				"twitter-bootstrap"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"apex-cop",
+				"Snippet: Apex-Copyright"
+			],
+			[
+				"fieldset",
+				"Snippet: Show fieldset in Visualforce page"
+			],
+			[
+				"apex-",
+				"Snippet: Apex Class - StandardController"
+			],
+			[
+				"apex-e",
+				"Snippet: Apex Class - StandardController"
+			],
+			[
+				"deploy",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"depl",
+				"MavensMate: Deploy Resource Bundle"
+			],
+			[
+				"resource",
+				"MavensMate: Create Resource Bundle"
+			],
+			[
+				"apex-cop	",
+				"Snippet: Apex-Copyright"
+			],
+			[
+				"apex-stnda",
+				"Snippet: Apex Class - StandardController"
+			],
+			[
+				"apex-sta",
+				"Snippet: Apex Class - StandardController"
+			],
+			[
+				"apex-c",
+				"Snippet: Apex-Copyright"
+			],
+			[
+				"snippet apex cop",
+				"Snippet: Apex-Copyright"
+			],
+			[
+				"snippet apex-cop",
+				"Snippet: Apex-Copyright"
+			],
+			[
+				"apex ",
+				"Snippet: Apex Class - StandardController"
+			],
+			[
+				"snippet apex ",
+				"Snippet: Apex Class - StandardController"
+			],
+			[
+				"snippet APEX",
+				"Snippet: Apex Class - StandardController"
+			],
+			[
+				"bootstrap",
+				"Snippet: Bootstrap-navigationbar"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet nav",
+				"Snippet: <nav>"
+			],
+			[
+				"Snippet: standard",
+				"Snippet: Apex-standardsetController"
+			],
+			[
+				"show fieldset",
+				"Snippet: Show fieldset in Visualforce page"
+			],
+			[
+				"showfieldset",
+				"Snippet: Show fieldset in Visualforce page"
+			],
+			[
+				"standard con",
+				"Snippet: Apex-standardController"
+			],
+			[
+				"standardcont",
+				"Snippet: Apex-standardController"
+			],
+			[
+				"snippeta",
+				"Snippet: Apex-standardsetController"
+			],
+			[
+				"snippet",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"markdo",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Sublime Text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cop",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"copy",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"gith",
+				"Github: Open File"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/novailmsServices.cls",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/User/mavensmate.sublime-settings",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/MockupUtility.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/components/TermManagementToolbar.component",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/CourseSectionView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/CourseSectionList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/CourseSectionGradeView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/CourseRegistrationDAO.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_CourseRegistrationDAO.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/novailms_configurationController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/ConfigurationView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/batch_categoryChangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Vbatch_Changeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/batch_UserChangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/batch_CourseChangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/batch_enrollmentChangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/batch_sendCourseCategoryChangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/NovaILMS_Configuration.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_SISUtility.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_novailmsConfigurationController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_ContactBulkRectypeEditController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/SISUtility.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_novailmsservices.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_batchmoodlechangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_vbatchchangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/iSISstdServices.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Helper.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Vscheduler_Changeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/batch_sendEnrollmentChangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/batch_sendCourseChangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/batch_sendUserChangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_batchsendmoodlechangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/configurationPageController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_ClassEnrollmentTriggerUtil.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/batch_cleanMoodleChangeset.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/Configuration.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/novailms_configurationController.cls-meta.xml",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/components/ConfigurationToolbar.component",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/ConfigurationList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/GradeLetterSetupView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/components/RegistrationToolbar.component",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/Configuration_oldbak.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationPaymentNew.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/RegistrationPaymentNewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_RegistrationPaymentNewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/RegistrationNewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_RegistrationNewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationMakePayment.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationNew.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/programsList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationPaymentList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationPaymentView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/degreeView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationNew_Confirmation.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationNew_review.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationNew_selectCourses.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/components/RegistrationWizardComponent.component",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/components/RegistrationToolbar.component-meta.xml",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/resource-bundles/sfdc_bootstrap.resource/bootstrap/js/bootstrap-wizard.js",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/components/BootstrapComponent.component",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/resource-bundles/sfdc_bootstrap.resource/bootstrap/js/bootstrap.js",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/resource-bundles/sfdc_bootstrap.resource/bootstrap/css/bootstrap-wizard.css",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/SchoolView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/SchoolTermView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/SchoolBreakView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/Schoolinfo.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/schoolInfoController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/courseView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/programsView.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/programsViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/courseView.page-meta.xml",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/courseViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/degreeViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/courseLists.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/StudentRegistrationCreate.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/StudentRegistrationList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/DegreePathService.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/SchoolTermList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/RegistrationCreate.page",
+		"/opt/eclipse-workspace/dashboard/src/dash/ui/templates/parts/spreadsheet-instructions.html",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/ClassScheduleTriggerUtil.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/triggers/T_class_schedule.trigger",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/ClassEnrollmentTriggerUtil.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/triggers/T_Course_registration_line_item.trigger",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Course_Registration_Line_ItemDAO.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/RegistrationService.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Utility.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/T_TermManagementViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/T_MainViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_MainViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/Test_TermManagementViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/SchoolTermViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/SchoolBreakViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/GradeLetterSetupViewController.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/I_DAOClass.cls",
+		"/opt/sfdc-ilms-workspace/edunova-development-org/src/classes/I_DAOClass.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/RegistrationItemModel.cls",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/components/SchoolToolbar.component",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/SchoolBreakList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/SchoolList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/GradeLetterSetupLists.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/GradeLetterSetupView.cls",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/degreeList.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/components/SchoolInfoToolBar.component",
+		"/Users/sannymulyono/Documents/sannyDrop/Dropbox/Packages/User/Bootstrap-navigationbar.sublime-snippet",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/schoolFinder.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/resource-bundles/sis_resources.resource/css/application.css",
+		"/opt/sfdc-ilms-workspace/ezmove/build.xml",
+		"/Users/sannymulyono/IDriveSync/sts-3.1-workspace/angular-phonecat/app/js/controllers.js",
+		"/Users/sannymulyono/IDriveSync/sts-3.1-workspace/angular-phonecat/test/unit/controllersSpec.js",
+		"/Users/sannymulyono/IDriveSync/sts-3.1-workspace/angular-phonecat/test/e2e/scenarios.js",
+		"/opt/sfdc-ilms-workspace/edunova-development-org/src/pages/ApplicationManagement.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/package.xml",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/triggers/afterEnrollment.trigger",
+		"/Users/sannymulyono/Documents/sannyDrop/Dropbox/Packages/User/Apex-showfieldset.sublime.snippet",
+		"/Users/sannymulyono/Documents/sannyDrop/Dropbox/Packages/User/Apex-Page Message",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/wppageController.cls",
+		"/Users/sannymulyono/Documents/sannyDrop/Dropbox/Packages/User/Apex-standardsetController.sublime-snippet",
+		"/Users/sannymulyono/Documents/sannyDrop/Dropbox/Packages/User/Apex-standardController.sublime-snippet",
+		"/Users/sannymulyono/Documents/sannyDrop/Dropbox/Packages/User/VF-showfieldset.sublime-snippet",
+		"/Users/sannymulyono/Documents/sannyDrop/Dropbox/Packages/User/Apex-standardsetController",
+		"/Users/sannymulyono/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/pages/wip_page2.page",
+		"/opt/sfdc-ilms-workspace/sis20dev-wip/src/classes/wip_pagecontroller.cls"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"recs",
+			"schoolterm_to_fetch",
+			"!');\n",
+			"Course_Registration_Line_Item__c",
+			"school_term__c",
+			"createMoodleSchedule",
+			"last_sync_time__c",
+			"Last_sync_time_started__c",
+			"development",
+			"novailms_Utility",
+			"Helper.",
+			"schoolinfo",
+			"novailms_Utility",
+			"ISisStdServices.",
+			"Helper.",
+			"new PageReference('/' + this.recs.id);",
+			"clearOutUserChangeset",
+			"Helper",
+			"isUsingUserLicense",
+			"newrec",
+			"obj_name",
+			"cdao.dirty_master_record",
+			"index_to_delete",
+			"commitwork",
+			"commitWork",
+			"ev",
+			"Course_registration__c",
+			"apex:outputPanel",
+			"class=\"{!IF(activestep == '1', 'current', '')}\"",
+			"Course_Registration__c",
+			"Enrolled_Program__c ",
+			"static ",
+			"Course_Registration__c",
+			"OutputResult",
+			"outputResult",
+			"map_courseref_coursesection",
+			"map_detail_header",
+			"Course_Registration__c",
+			"map_coursesection_course",
+			"studentid",
+			"CourseRegistrationOutput",
+			"retval",
+			"status",
+			"prepareSchoolTerm",
+			"numofstudents",
+			"prepareStudents",
+			"dpA",
+			"course",
+			"Course",
+			"course",
+			"Course",
+			"Degree",
+			"degree",
+			"Degree",
+			"degree",
+			"Degree",
+			"checkCoursePrerequisites",
+			"global",
+			"map_degree_courses",
+			"Course_Prerequisite__c",
+			"Course_Prerequisites__c",
+			"debug",
+			"DegreePathCheckModel",
+			"map_student_course_apply_status",
+			"map_student_completed_course",
+			"course_to_fecth",
+			"course_to_apply",
+			"student_to_fetch",
+			"Student_Contact__c",
+			"student__c",
+			"SObject",
+			"SchoolTermViewController",
+			"School_Term__c",
+			"Course__c",
+			"activevalue",
+			"span",
+			"button",
+			"student__c",
+			"class__c",
+			"student__c",
+			"class__c",
+			"Class_Enrollment__c",
+			"class__c",
+			"student__c",
+			"Class_Enrollment__c",
+			"drop",
+			"nf_01IA0000001vzeJMAQ_00NA0000008TXAmMAO",
+			"branchreleasetype",
+			"branch",
+			"branch_type",
+			"branch",
+			"is_not",
+			"notmilestonesRelease",
+			"blocked_release",
+			"branch",
+			"brach",
+			"GROUP BY 1",
+			"Hibernate: ",
+			"Helper.StudentRecordTypeId",
+			"Class_Schedule__c",
+			"class_schedule__c",
+			"attendancerec",
+			"Datetime",
+			"Class_Attendance__c",
+			"commandButton",
+			"commandLink",
+			"commandButton",
+			"commandLink",
+			"commandButton",
+			"outputLink",
+			"commandLink",
+			"next",
+			"pageBlockTable",
+			"CustomProduct__c",
+			"customproduct__c",
+			"CustomProduct__c",
+			"batch_sendUserChangeset",
+			"ILMS_SIS__",
+			"Integrated LMS",
+			"outputfield",
+			"ILMS_SIS__Course__c",
+			"Integer",
+			"TRIGGER",
+			"Trigger",
+			"T_endcreatedate",
+			"t_enddate",
+			"t_startdate",
+			"sfdc_bootstrap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 154.0
+	},
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mock",
+				"src/classes/MockupUtility.cls"
+			],
+			[
+				"mockup",
+				"src/classes/MockupUtility.cls"
+			],
+			[
+				"test_registration",
+				"src/classes/Test_RegistrationNewController.cls"
+			],
+			[
+				"test_course",
+				"src/classes/Test_CourseRegistrationDAO.cls"
+			],
+			[
+				"test_cou",
+				"src/classes/Test_CourseRegistrationDAO.cls"
+			],
+			[
+				"registrationview",
+				"src/pages/RegistrationView.page"
+			],
+			[
+				"test_coursereg",
+				"src/classes/Test_CourseRegistrationDAO.cls"
+			],
+			[
+				"t_",
+				"src/classes/T_TermManagementViewController.cls"
+			],
+			[
+				"t_mainvi",
+				"src/classes/T_MainViewController.cls"
+			],
+			[
+				"applicationmanage",
+				"src/pages/ApplicationManagement.page"
+			],
+			[
+				"programv",
+				"src/pages/program_view.page"
+			],
+			[
+				"programvi",
+				"src/classes/programViewController.cls"
+			],
+			[
+				"programs",
+				"src/classes/programsController.cls"
+			],
+			[
+				"webtemplp",
+				"src/pages/webtemplate.page"
+			],
+			[
+				"isis_gradesconsolebycourse",
+				"src/pages/isis_gradesConsoleByCourse.page"
+			],
+			[
+				"sample",
+				"src/classes/SampleData.cls"
+			],
+			[
+				"initial",
+				"src/classes/InitialSetupScript.cls"
+			],
+			[
+				"sissche",
+				"deploycode/crm_sis_code/classes/SISscheduler.cls"
+			],
+			[
+				"novailmslib",
+				"moodle-core/enrol/novailms/lib.php"
+			],
+			[
+				"main_template",
+				"application/views/templates/main_template.php"
+			],
+			[
+				"base",
+				"application/controllers/basic_request.php"
+			],
+			[
+				"home.",
+				"application/views/home.php"
+			],
+			[
+				"bigimage",
+				"application/views/layout/bigImageSpotlight.php"
+			],
+			[
+				"home",
+				"application/views/home.php"
+			],
+			[
+				"product_go",
+				"application/views/products_gold.php"
+			],
+			[
+				"basicrequest",
+				"application/controllers/basic_request.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true
+}
